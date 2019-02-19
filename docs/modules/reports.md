@@ -1,10 +1,10 @@
 # Apollo Universal Starter Kit &ndash; Reports
 
 The module Reports in Apollo Universal Starter Kit implements the functionality to render, download, and print reports. 
-The following GIF demonstrates the Reports module:
+The following image demonstrates the client-side of the Reports module:
 
 <p align="center">
-    <img src="../images/report-page.png" />
+    <img src="../images/reports-module.png" />
 </p> 
 
 ## Getting Started
